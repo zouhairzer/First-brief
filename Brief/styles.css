@@ -150,3 +150,10 @@ footer {
     display: grid; 
     gap: 20px;
 }
+
+
+
+#paragraphe{
+    border: #0f0707 1px solid;
+    text-align: center;
+}
